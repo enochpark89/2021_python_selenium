@@ -207,3 +207,7 @@ for size in sizes:
 - If you divide the browser height from the scroll_size, you get how much you can scroll down. 
 - range() gives an array of how much you are going to give it. 
 - Each scroll down will be the browser height. 
+
+# Instamining 
+
+- We are going to take one hash tag and take all the related hashtags and count how many posts that they have. 
